@@ -11,54 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Cognitive Neuroscience, International School for Advanced Studies (SISSA), 2024
+* MSc in Neurobiology, University of Pavia, 2018
+* BSc in Biotechnology, University of Torino, 2015
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - present: Postdoctoral Fellow
+  * [Time Perception Lab](https://buetilab.org/)
+  * International School for Advanced Studies (SISSA)
+  * Prof. Domenica Bueti
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2024: PhD Fellow
+  * [Time Perception Lab](https://buetilab.org/)
+  * International School for Advanced Studies (SISSA)
+  * Prof. Domenica Bueti
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017 - 2018: MSc Research Intern
+  * [Neuroimaging and Brain Modelling Lab](https://dangelo.unipv.it/)
+  * University of Pavia
+  * Prof. Egidio Ugo D'Angelo, Prof. Claudia Gandini Wheeler-Kingshott
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2014 - 2015: BSc Research Intern
+  * [Brain Development and Disease Lab](https://nico.ottolenghi.unito.it/gruppi-di-ricerca/sviluppo-e-patologia-del-cervello/)
+  * Neuroscience Institute Cavalieri Ottolenghi (NICO)
+  * Prof. Alessandro Vercelli
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
