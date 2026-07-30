@@ -7,6 +7,6 @@ excerpt: 'In this work, by combining a high-density brain parcellation with a me
 date: 2026-03-26
 venue: 'PLOS Biology'
 paperurl: 'https://doi.org/10.1371/journal.pbio.3003704'
-osfurl: 'https://osf.io/2tequ'
 citation: 'Centanino V, Fortunato G, Bueti D (2026) &quot;Neuronal populations across the cortex underlie discrete, categorical, and subjective representations of visual durations.&quot; <i>PLoS Biol<i> 24(3): e3003704.'
 ---
+[OSF repository](https://osf.io/2tequ)

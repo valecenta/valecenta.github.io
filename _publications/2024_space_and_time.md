@@ -7,6 +7,6 @@ excerpt: 'In this work, we investigated how the brain processes temporal informa
 date: 2024-12-27
 venue: 'Nature Communications'
 paperurl: 'https://doi.org/10.1038/s41467-024-54336-5'
-osfurl: 'https://osf.io/cy34q'
-citation: 'Centanino V, Fortunato G, Bueti D (2024) &quot;The neural link between stimulus duration and spatial location in the human visual hierarchy.&quot; <i>Nat Commun<i> 15, 10720.'
+citation: 'Centanino, V., Fortunato, G. & Bueti, D. &quot;The neural link between stimulus duration and spatial location in the human visual hierarchy.&quot; <i>Nat Commun<i> 15, 10720 (2024).'
 ---
+[OSF repository](https://osf.io/cy34q)
