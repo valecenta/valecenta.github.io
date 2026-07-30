@@ -1,0 +1,12 @@
+<div class="publication-item">
+  <p>
+    <strong>{{ post.citation }}</strong>
+    {% if post.paperurl %}
+      <br>
+      <a href="{{ post.paperurl }}">DOI</a>
+    {% endif %}
+    {% if post.osfurl %}
+      | <a href="{{ post.osfurl }}">OSF</a>
+    {% endif %}
+  </p>
+</div>
