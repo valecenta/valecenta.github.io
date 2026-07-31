@@ -1,7 +1,13 @@
 /* Font */
-body {
+body,
+h1, h2, h3, h4, h5, h6,
+.author__name,
+.author__bio,
+.greedy-nav,
+.masthead,
+.page__title,
+.archive__item-title {
   font-family: "Inter", Arial, sans-serif;
-  color: var(--global-text-color);
 }
 
 /* Headings */
@@ -25,10 +31,18 @@ a:hover {
 }
 
 /* Content links in red */
-.page__content a {
+.page__content a,
+.archive__item-title a,
+.archive__item-excerpt a,
+.archive a,
+.page a {
   color: #b22222;
 }
 
-.page__content a:hover {
+.page__content a:hover,
+.archive__item-title a:hover,
+.archive__item-excerpt a:hover,
+.archive a:hover,
+.page a:hover {
   color: #8b0000;
 }
