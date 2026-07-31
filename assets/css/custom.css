@@ -60,3 +60,8 @@ a:hover {
   color: var(--global-text-color) !important;
   text-decoration: underline;
 }
+
+/* Profile photo */
+.author__avatar img {
+  border-radius: 8px;
+}
