@@ -24,25 +24,28 @@ a:hover {
   color: #163b73;
 }
 
-/* Sidebar text */
-.author__bio {
-  color: var(--global-text-color);
-  opacity: 0.7;
-}
-
-/* Content links in red */
+/* Red links in content */
 .page__content a,
 .archive__item-title a,
 .archive__item-excerpt a,
 .archive a,
-.page a {
-  color: #b22222;
+.page a,
+.author__urls a {
+  color: #b22222 !important;
 }
 
 .page__content a:hover,
 .archive__item-title a:hover,
 .archive__item-excerpt a:hover,
 .archive a:hover,
-.page a:hover {
-  color: #8b0000;
+.page a:hover,
+.author__urls a:hover {
+  color: #8b0000 !important;
 }
+
+/* Sidebar text */
+.author__bio {
+  color: var(--global-text-color);
+  opacity: 0.7;
+}
+
