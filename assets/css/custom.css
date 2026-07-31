@@ -63,5 +63,5 @@ a:hover {
 
 /* Profile photo */
 .author__avatar img {
-  border-radius: 8px;
+  border-radius: 50%;
 }
