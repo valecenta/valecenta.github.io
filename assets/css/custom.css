@@ -37,8 +37,9 @@ a:hover {
 .archive__item-title a:hover,
 .archive__item-excerpt a:hover,
 .archive a:hover,
-.page a:hover {
-  color: #7d2f2d;
+..page a:hover {
+  color: #5c1f1d;
+  text-decoration: underline;
 }
 
 /* Sidebar text */
