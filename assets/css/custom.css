@@ -61,10 +61,8 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Profile photo: rounded square */
+/* Make profile photo circular */
+.author__avatar,
 .author__avatar img {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 50%;
+  border-radius: 50% !important;
 }
