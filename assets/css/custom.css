@@ -61,7 +61,10 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Profile photo */
+/* Profile photo: rounded square */
 .author__avatar img {
-  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
 }
