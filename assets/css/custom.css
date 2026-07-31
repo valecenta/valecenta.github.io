@@ -24,23 +24,21 @@ a:hover {
   color: #163b73;
 }
 
-/* Red links in content */
+/* Content links in red */
 .page__content a,
 .archive__item-title a,
 .archive__item-excerpt a,
 .archive a,
-.page a,
-.author__urls a {
-  color: #b22222 !important;
+.page a {
+  color: #9f3a38;
 }
 
 .page__content a:hover,
 .archive__item-title a:hover,
 .archive__item-excerpt a:hover,
 .archive a:hover,
-.page a:hover,
-.author__urls a:hover {
-  color: #8b0000 !important;
+.page a:hover {
+  color: #7d2f2d;
 }
 
 /* Sidebar text */
@@ -49,13 +47,12 @@ a:hover {
   opacity: 0.7;
 }
 
-/* TEST: force all links red */
-a,
-a:visited {
-  color: red !important;
+/* Sidebar links stay subtle */
+.author__urls a {
+  color: var(--global-link-color);
 }
 
-a:hover {
-  color: darkred !important;
+.author__urls a:hover {
+  color: var(--global-text-color);
 }
 
