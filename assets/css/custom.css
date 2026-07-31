@@ -1,18 +1,17 @@
 /* Font */
 body {
   font-family: "Inter", Arial, sans-serif;
-  color: #222222;
-  background-color: #ffffff;
+  color: var(--global-text-color);
 }
 
 /* Headings */
 h1, h2, h3, h4 {
-  color: #111111;
+  color: var(--global-heading-color);
 }
 
 /* Links */
 a {
-  color: #2457a6;
+  color: var(--global-link-color);
 }
 
 a:hover {
@@ -21,5 +20,15 @@ a:hover {
 
 /* Sidebar text */
 .author__bio {
-  color: #666666;
+  color: var(--global-text-color);
+  opacity: 0.7;
+}
+
+/* Content links in red */
+.page__content a {
+  color: #b22222;
+}
+
+.page__content a:hover {
+  color: #8b0000;
 }
