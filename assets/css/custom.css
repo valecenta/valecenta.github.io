@@ -1,0 +1,25 @@
+/* Font */
+body {
+  font-family: "Inter", Arial, sans-serif;
+  color: #222222;
+  background-color: #ffffff;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #111111;
+}
+
+/* Links */
+a {
+  color: #2457a6;
+}
+
+a:hover {
+  color: #163b73;
+}
+
+/* Sidebar text */
+.author__bio {
+  color: #666666;
+}
