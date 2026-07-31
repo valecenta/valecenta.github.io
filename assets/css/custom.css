@@ -51,13 +51,14 @@ a:hover {
 }
 
 /* Sidebar links stay subtle */
-.author__urls a {
-  color: var(--global-text-color);
+.author__urls a,
+.author__urls a:visited {
+  color: var(--global-text-color) !important;
   opacity: 0.75;
 }
 
 .author__urls a:hover {
-  color: var(--global-text-color);
+  color: var(--global-text-color) !important;
   opacity: 1;
 }
 
