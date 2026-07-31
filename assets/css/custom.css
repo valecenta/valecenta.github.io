@@ -60,9 +60,3 @@ a:hover {
   color: var(--global-text-color) !important;
   text-decoration: underline;
 }
-
-/* Make profile photo circular */
-.author__avatar,
-.author__avatar img {
-  border-radius: 50% !important;
-}
