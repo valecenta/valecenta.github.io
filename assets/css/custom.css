@@ -22,7 +22,7 @@ a {
 }
 
 a:hover {
-  color: #163b73;
+  color: var(--global-text-color);
 }
 
 /* Content links in red */
@@ -39,7 +39,7 @@ a:hover {
 .archive__item-title a:hover,
 .archive__item-excerpt a:hover,
 .archive a:hover,
-..page a:hover {
+.page a:hover {
   color: #5c1f1d !important;
   text-decoration: underline;
 }
@@ -54,12 +54,9 @@ a:hover {
 .author__urls a,
 .author__urls a:visited {
   color: var(--global-text-color) !important;
-  opacity: 1 !important;
 }
 
 .author__urls a:hover {
   color: var(--global-text-color) !important;
-  opacity: 1 !important;
   text-decoration: underline;
 }
-
