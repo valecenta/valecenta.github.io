@@ -49,3 +49,13 @@ a:hover {
   opacity: 0.7;
 }
 
+/* TEST: force all links red */
+a,
+a:visited {
+  color: red !important;
+}
+
+a:hover {
+  color: darkred !important;
+}
+
