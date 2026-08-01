@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * PhD in Cognitive Neuroscience, International School for Advanced Studies (SISSA), 2024
 * MSc in Neurobiology, University of Pavia, 2018
 * BSc in Biotechnology, University of Torino, 2015
 
 Research experience
-======
+------
 * 2024 - present: Postdoctoral Fellow
   * [Time Perception Lab](https://buetilab.org/)
   * International School for Advanced Studies (SISSA)
