@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Ciao**! I am a cognitive neuroscientist curious about one of the most fundamental aspects of our everyday experience: **time**. I am interested in understanding how we perceive the ecological flow of time, how events unfolding over brief timescales are integrated into this flow, and how this process shapes the predictions we make about the world around us (or perhaps the other way around!). By drawing a computational link between the neural processing of time and its perception, I seek to contribute to our understanding of the building blocks of our temporal experience.
+Ciao! I am a cognitive neuroscientist curious about one of the most fundamental aspects of our everyday experience: **time**. I am interested in understanding how we perceive the ecological flow of time, how events unfolding over brief timescales are integrated into this flow, and how this process shapes the predictions we make about the world around us (or perhaps the other way around!). By drawing a computational link between the neural processing of time and its perception, I seek to contribute to our understanding of the building blocks of our temporal experience.
 
 Research 
 ------
@@ -15,8 +15,8 @@ So far, my research has focused on **how humans perceive durations in the millis
 
 Background
 ------
-I earned a PhD in Cognitive Neuroscience, following undergraduate studies in Biotechnology and Neurobiology. My transition from the micro- to the macro-scale began during an extracurricular neuroimaging class, where I first discovered the power of functional neuroimaging to reveal the neural mechanisms underlying the complexity of behaviour.
+I earned a PhD in Cognitive Neuroscience, following studies in Biotechnology and Neurobiology. My transition from the micro- to the macro-scale began during an extracurricular neuroimaging class, where I first discovered the power of functional neuroimaging to reveal the neural mechanisms underlying the complexity of behaviour.
 
-Current academic position
+Current position
 ------
 I am a Postdoctoral Researcher at [SISSA](https://www.sissa.it/) (Trieste, IT), working with [Prof. Domenica Bueti](https://buetilab.org/).
